@@ -1,0 +1,11 @@
+/* HEADER */
+header{ 
+    background-image: url(../img/pattern.png);
+    height: 200px;
+    background-color: rgba(0, 0, 255, 0.5);
+    position: relative;
+}
+header img{
+    position:absolute;
+    bottom: 0;
+}
