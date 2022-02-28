@@ -1,11 +1,32 @@
+
 /* HEADER */
 header{ 
     background-image: url(../img/pattern.png);
     height: 200px;
-    background-color: rgba(0, 0, 255, 0.5);
+    background-color: #4EA0FF;
     position: relative;
 }
 header img{
     position:absolute;
     bottom: 0;
+}
+
+/* MAIN */
+.author-date{
+    color: gray;
+}
+.author{
+    color: #30AFE7;
+}
+.important-text{
+    background-color: #FFFF00;
+}
+
+/* TABLE */
+.thead{
+    background-color: #20A9E5 ;
+}
+
+.colored-row{
+    background-color: #B1E5F2;
 }
