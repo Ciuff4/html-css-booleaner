@@ -1,3 +1,7 @@
+/* GENERAL */
+*{
+    
+}
 
 /* HEADER */
 header{ 
@@ -17,6 +21,9 @@ header img{
 }
 .author{
     color: #30AFE7;
+}
+.caption{
+    font-size: 8;
 }
 .important-text{
     background-color: #FFFF00;
